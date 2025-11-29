@@ -1,7 +1,7 @@
 aws_region         = "us-east-1"
-upload_bucket_name = "devops-accelerator-upload-bucket"
+upload_bucket_name = "iaman011-accelerator-upload-bucket"
 
-frontend_bucket_name     = "devops-accelerator-frontend-hosting-bucket"
+frontend_bucket_name     = "iaman011-accelerator-frontend-hosting-bucket"
 cloudfront_price_class   = "PriceClass_100"
 
-notification_email = "mohammed_anees_consultant@pw.live"
+notification_email = "iaman.singh011@gmail.com"
